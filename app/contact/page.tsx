@@ -143,7 +143,7 @@ export default function Courses_Page() {
                                                 </div>
                                                 <div className="text">
                                                     <h4>Email</h4>
-                                                    <p><Link href="mailto:support@haboetrade.com">support@haboetrade.com</Link></p>
+                                                    <p><Link href="mailto:support@lucidglobalinvest.com">support@lucidglobalinvest.com</Link></p>
                                                 </div>
                                             </li>
                                             <li>

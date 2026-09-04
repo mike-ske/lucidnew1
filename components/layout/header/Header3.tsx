@@ -72,7 +72,7 @@ export default function Header3({ scroll, handleMobileMenu, handlePopup, handleS
                             <div className="main-header-style3__content-bottom-left">
                                 <div className="header-logo-box-style3">
                                     <Link href="/index-3">
-                                        <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1781017341/logo-2_vx56z3.png" alt="Haboetrade Logo" width={189} height={27} priority />
+                                        <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
                                     </Link>
                                 </div>
                             </div>
@@ -84,7 +84,7 @@ export default function Header3({ scroll, handleMobileMenu, handlePopup, handleS
                                         <div className="main-menu__wrapper-inner">
                                                     <div className="sticky-logo-box-style1">
                                                 <Link href="/index-3">
-                                                    <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1781017341/logo-2_vx56z3.png" alt="Haboetrade Logo" width={189} height={27} priority />
+                                                    <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
                                                 </Link>
                                             </div>
                                             <div className="main-menu-style1__left">
@@ -132,7 +132,7 @@ export default function Header3({ scroll, handleMobileMenu, handlePopup, handleS
                     <div className="main-menu__wrapper-inner">
                         <div className="sticky-logo-box-style1">
                             <Link href="/">
-                                <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1781017341/logo-2_vx56z3.png" alt="Haboetrade Logo" width={189} height={27} priority />
+                                <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
                             </Link>
                         </div>
                         <div className="main-menu-style1__left">

@@ -104,7 +104,7 @@ export default function Banner() {
                             </Link>
                         </div>
                         <div className="header-btn-box-style2">
-                            <Link className="btn-one" href="https://app.haboetrade.com/login">
+                            <Link className="btn-one" href="https://app.lucidglobalinvest.com/login">
                                 <span className="txt">Login</span>
                                 <i className="icon-right-arrow"></i>
                             </Link>

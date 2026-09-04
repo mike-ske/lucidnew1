@@ -26,9 +26,9 @@ const moderustic = Moderustic({
 
 
 export const metadata: Metadata = {
-  title: "HaboeTrade | Trusted Investment & Online Trading Platform",
+  title: "Lucid Global Invest | Trusted Investment & Online Trading Platform",
   description:
-    "HaboeTrade is a modern online investment and trading platform offering secure trading solutions, market insights, financial growth opportunities, and professional investment services.",
+    "Lucid Global Invest is a modern online investment and trading platform offering secure trading solutions, market insights, financial growth opportunities, and professional investment services.",
 };
 
 export default function RootLayout({
@@ -45,11 +45,10 @@ export default function RootLayout({
         <script
           type="text/javascript"
           dangerouslySetInnerHTML={{
-            __html: `var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();(function() {var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0]; s1.async = true; s1.src = 'https://embed.tawk.to/69e9166db60f3a1c3c5a30e3/1jmr7v7i7'; s1.charset = 'UTF-8'; s1.setAttribute('crossorigin', '*'); s0.parentNode.insertBefore(s1, s0); })();`,
+            __html: `var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();(function() {var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0]; s1.async = true; s1.src = 'https://embed.tawk.to/6a988eb8a0ffc53446f9b976/1k1hur10v'; s1.charset = 'UTF-8'; s1.setAttribute('crossorigin', '*'); s0.parentNode.insertBefore(s1, s0); })();`,
           }}
         />
       </body>
     </html>
   );
 }
-

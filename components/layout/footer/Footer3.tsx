@@ -208,7 +208,7 @@ export default function Footer3() {
                             <div className="copyright-text-style3 wow fadeInLeft" data-wow-duration="1500ms"
                                 data-wow-delay="000ms">
                                 <p>
-Copyrights © {new Date().getFullYear()} <Link href="/">Haboetrade. </Link> All rights reserved.
+Copyrights © {new Date().getFullYear()} <Link href="/">Lucid Global Invest. </Link> All rights reserved.
                                 </p>
                             </div>
                             <div className="payment-methods wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="200ms">

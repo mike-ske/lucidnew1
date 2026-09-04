@@ -24,7 +24,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }: Heade
                         <div className="main-header-style1__content-top-left">
                             <div className="header-logo-box-style1">
                                 <Link href="/">
-<Image src="/assets/images/resources/logo-2.png" alt="Haboetrade Logo" width={189} height={27} priority />
+<Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
                                 </Link>
                             </div>
                         
@@ -50,7 +50,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }: Heade
                                                 <Image src="/assets/images/icon/icon-login.png" alt="Icon" width={26} height={26} priority />
                                             </div>
                                             <div className="text1">
-                                                <h4><Link href="https://app.haboetrade.com/login">Login</Link></h4>
+                                                <h4><Link href="https://app.lucidglobalinvest.com/login">Login</Link></h4>
                                                 <p>Enter to Trade</p>
                                             </div>
                                         </li>
@@ -59,7 +59,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }: Heade
                                                 <Image src="/assets/images/icon/icon-register.png" alt="Icon" width={26} height={26} priority />
                                             </div>
                                             <div className="text1">
-                                                <h4><Link href="https://app.haboetrade.com/register">Register</Link></h4>
+                                                <h4><Link href="https://app.lucidglobalinvest.com/register">Register</Link></h4>
                                                 <p>Start Your Journey</p>
                                             </div>
                                         </li>
@@ -82,7 +82,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }: Heade
                                     <div className="main-menu__wrapper-inner">
                                         <div className="sticky-logo-box-style1">
                                             <Link href="/">
-                                                <Image src="/assets/images/resources/logo-2.png" alt="Haboetrade Logo" width={189} height={27} priority />
+                                                <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
                                             </Link>
                                         </div>
                                         <div className="main-menu-style1__left">
@@ -108,7 +108,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }: Heade
                                     <i className="icon-candle"></i>
                                 </div>
                                 <div className="text">
-                                    <Link href="https://app.haboetrade.com/login">
+                                    <Link href="https://app.lucidglobalinvest.com/login">
                                         Start <br />Trading
                                         <i className="icon-right-arrow"></i>
                                     </Link>
@@ -133,7 +133,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }: Heade
                     <div className="main-menu__wrapper-inner">
                         <div className="sticky-logo-box-style1">
                             <Link href="/">
-                                <Image src="/assets/images/resources/logo-2.png" alt="Haboetrade Logo" width={189} height={27} priority />
+                                <Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
                             </Link>
                         </div>
                         <div className="main-menu-style1__left">

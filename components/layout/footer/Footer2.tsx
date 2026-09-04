@@ -56,8 +56,8 @@ export default function Footer2() {
                                                     </div>
                                                     <div className="email-phn">
 <p>
-                                                            <Link href="mailto:sendyourmail@haboetrade.com">
-                                                                support@haboetrade.com
+                                                            <Link href="mailto:sendyourmail@lucidglobalinvest.com">
+                                                                support@lucidglobalinvest.com
                                                             </Link>
                                                         </p>
                                                         <p className="color">

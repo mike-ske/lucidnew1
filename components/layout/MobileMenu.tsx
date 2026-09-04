@@ -36,7 +36,7 @@ export default function MobileMenu({ handleMobileMenu }: MobileMenuProps) {
 
           <div className="logo-box">
               <Link href="/" aria-label="logo image">
-<Image src="/assets/images/resources/logo-2.png" alt="Haboetrade Logo" width={189} height={27} priority />
+<Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={27} priority />
               </Link>
           </div>
 

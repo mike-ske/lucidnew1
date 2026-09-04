@@ -99,7 +99,7 @@ export default function Footer4() {
                             </div>
                             <div className="copyright-text-style4">
                                 <p>
-Copyrights © {new Date().getFullYear()} <Link href="/">Haboetrade. </Link> All rights reserved.
+Copyrights © {new Date().getFullYear()} <Link href="/">Lucid Global Invest. </Link> All rights reserved.
                                 </p>
                             </div>
                         </div>

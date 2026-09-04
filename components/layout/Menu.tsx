@@ -13,7 +13,7 @@ export default function Menu() {
   const isDropdownActive = (paths: string[]) => paths.some((path) => pathname.startsWith(path));
 
   const toPortal = (path: "/login" | "/register") => {
-    return `https://app.haboetrade.com${path}`;
+    return `https://app.lucidglobalinvest.com${path}`;
   };
 
   const isCurrentOrPrefix = (paths: string[]) => {
@@ -120,4 +120,3 @@ export default function Menu() {
     </ul>
   );
 }
-

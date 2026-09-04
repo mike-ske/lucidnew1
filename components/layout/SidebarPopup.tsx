@@ -20,7 +20,7 @@ const SidebarPopup: React.FC<SidebarPopupProps> = ({ isOpen, onClose }) => {
                         <div className="content-inner">
                             <div className="logo">
                                 <Link href="/">
-<Image src="/assets/images/resources/logo-2.png" alt="Haboetrade Logo" width={189} height={28} priority />
+<Image src="https://res.cloudinary.com/drgk8rmny/image/upload/v1788390625/ChatGPT_Image_Sep_3__2026__12_05_11_AM-removebg-preview_qs5iis.png" alt="Lucid Global Invest logo" width={189} height={28} priority />
                                 </Link>
                             </div>
                             <div className="content-box">
@@ -53,7 +53,7 @@ const SidebarPopup: React.FC<SidebarPopupProps> = ({ isOpen, onClose }) => {
                                     <li>
                                         <div className="inner">
                                             <div className="text">
-                                                <p><Link href="mailto:sendmail@haboetrade.com">sendmail@haboetrade.com</Link></p>
+                                                <p><Link href="mailto:sendmail@lucidglobalinvest.com">sendmail@lucidglobalinvest.com</Link></p>
                                             </div>
                                         </div>
                                     </li>
@@ -117,4 +117,3 @@ const SidebarPopup: React.FC<SidebarPopupProps> = ({ isOpen, onClose }) => {
 };
 
 export default SidebarPopup;
-

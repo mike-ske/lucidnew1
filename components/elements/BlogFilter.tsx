@@ -86,7 +86,7 @@ export default function Blog_Masonry_Filter() {
                                         <div className="file-box"><i className="far fa-folder-open"></i><p>Data Engineering</p></div>
                                         <div className="title-box">
                                             <div className="post-date"><p>02</p><span>Jan</span></div>
-                                            <h4><Link href="/blog-details">Haboetrade Named as a Global Leader in Big Data</Link></h4>
+                                            <h4><Link href="/blog-details">Lucid Global Invest Named as a Global Leader in Big Data</Link></h4>
                                         </div>
                                         <div className="text">
                                             <p>Equal blame belongs too those who fail in their through weakness will shrinking.</p>
@@ -128,7 +128,7 @@ export default function Blog_Masonry_Filter() {
                                         <div className="file-box"><i className="far fa-folder-open"></i><p>Data Strategy</p></div>
                                         <div className="title-box">
                                             <div className="post-date"><p>30</p><span>Dec</span></div>
-                                            <h4><Link href="/blog-details">Haboetrade as the Winners in Global Agency Awards</Link></h4>
+                                            <h4><Link href="/blog-details">Lucid Global Invest as the Winners in Global Agency Awards</Link></h4>
                                         </div>
                                         <div className="text">
                                             <p>Obligations of business it will frequently occur that pleasures have to be repudiated.</p>
@@ -149,7 +149,7 @@ export default function Blog_Masonry_Filter() {
                                         <div className="file-box"><i className="far fa-folder-open"></i><p>Data Strategy</p></div>
                                         <div className="title-box">
                                             <div className="post-date"><p>31</p><span>Dec</span></div>
-                                            <h4><Link href="/blog-details">Haboetrade as the Winners in Global Agency Awards</Link></h4>
+                                            <h4><Link href="/blog-details">Lucid Global Invest as the Winners in Global Agency Awards</Link></h4>
                                         </div>
                                         <div className="text">
                                             <p>When our power choice untrammelled and then prevents our being able pleasure.</p>
@@ -170,7 +170,7 @@ export default function Blog_Masonry_Filter() {
                                         <div className="file-box"><i className="far fa-folder-open"></i><p>Data Strategy</p></div>
                                         <div className="title-box">
                                             <div className="post-date"><p>26</p><span>Dec</span></div>
-                                            <h4><Link href="/blog-details">Haboetrade as the Winners in Global Agency Awards</Link></h4>
+                                            <h4><Link href="/blog-details">Lucid Global Invest as the Winners in Global Agency Awards</Link></h4>
                                         </div>
                                         <div className="text">
                                             <p>Equal blame belongs too those who fail in their through weakness will shrinking.</p>
@@ -229,7 +229,7 @@ export default function Blog_Masonry_Filter() {
                                         <div className="file-box"><i className="far fa-folder-open"></i><p>Data Engineering</p></div>
                                         <div className="title-box">
                                             <div className="post-date"><p>29</p><span>Dec</span></div>
-                                            <h4><Link href="/blog-details">Haboetrade Named as a Global Leader in Big Data</Link></h4>
+                                            <h4><Link href="/blog-details">Lucid Global Invest Named as a Global Leader in Big Data</Link></h4>
                                         </div>
                                         <div className="text">
                                             <p>Obligations of business it will frequently occur that pleasures have to be repudiated.</p>
@@ -250,7 +250,7 @@ export default function Blog_Masonry_Filter() {
                                         <div className="file-box"><i className="far fa-folder-open"></i><p>Data Engineering</p></div>
                                         <div className="title-box">
                                             <div className="post-date"><p>25</p><span>Dec</span></div>
-                                            <h4><Link href="/blog-details">Haboetrade Named as a Global Leader in Big Data</Link></h4>
+                                            <h4><Link href="/blog-details">Lucid Global Invest Named as a Global Leader in Big Data</Link></h4>
                                         </div>
                                         <div className="text">
                                             <p>When our power choice untrammelled and then prevents our being able pleasure.</p>
@@ -273,4 +273,3 @@ export default function Blog_Masonry_Filter() {
         </>
   );
 }
-
